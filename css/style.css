@@ -1,0 +1,182 @@
+/*=====================================================
+Author: Levan Mebonia
+Username: levo96
+
+Project Calculator
+===========================================================*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-size: 100%;
+  font-family: Arial,sans-serif;
+  overflow: hidden;
+}
+
+#main {
+  max-width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: cadetblue;
+}
+
+/* ================================================================= */
+#phone_case {
+  height: 90%;
+  width: 30%;
+  background-color: white;
+  border: 5px solid silver;
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pc_items {
+  width: 94%;
+}
+
+#header {
+  height: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#speaker_container {
+  flex-grow: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+#speakers {
+  width: 110px;
+  height: 30px;
+  border: 2px solid grey;
+  border-radius: 100px;
+  background-color: dotted;
+}
+
+#cameras {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height:100%;
+  flex-grow: 0.6;
+}
+
+#big_front_camera {
+  width: 40px;
+  height: 40px;
+  border: 5px solid grey;
+  border-radius: 100%;
+  background-color: black;
+}
+
+#display {
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+}
+
+.display_items {
+  width: 100%;
+}
+
+#display_top {
+  height: 30%;
+  background-color: #202020;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-end;
+  overflow: hidden;
+  padding: 0 25px;
+}
+
+#users_calculation {
+  font-size: 1.3em;
+  color: white;
+  font-weight: 100;
+}
+
+#input_and_result_textBox  {
+  font-size:  2.2em;
+  color: white;
+  font-weight: 200;
+}
+
+#buttons_container {
+  height: 70%;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+.bc_items {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  justify-content:space-between;
+}
+
+.buttons {
+  width: 150px;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 200;
+  background-color: white;
+  color: black;
+  padding: 5px;
+  border: 1px solid grey;
+}
+
+.first_row {
+  background: lightgrey;
+  color: black;
+}
+
+#C_button {
+  color: red;
+}
+
+#DEL_button {
+  color: red;
+}
+
+.background_orange {
+  background-color: orange;
+  color: white;
+}
+
+#Result_button {
+  background-color: green;
+  color: white;
+}
+
+
+
+#footer {
+  height: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#home_button {
+  height: 50px;
+  width: 60px;
+  border-radius: 100%;
+  border: 3px solid grey;
+}
