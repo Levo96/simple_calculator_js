@@ -1,1 +1,3 @@
-# simple_calculator_js
+#Simple Calculator JS
+
+view on CodePen()
