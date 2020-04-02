@@ -1,3 +1,3 @@
-#Simple Calculator JS
+#Simple_Calculator_JS
 
-View on CodePen: (https://codepen.io/levo96/full/dyPYeYd)
+view: (https://codepen.io/levo96/full/dyPYeYd)
