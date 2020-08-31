@@ -1,4 +1,4 @@
-JS Calculator
+# Calculator
 
 view this calculator: (https://levo96.github.io/calculator/)
 
