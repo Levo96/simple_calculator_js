@@ -1,3 +1,5 @@
-Simple Calculator
+JS Calculator
 
-view: (https://codepen.io/levo96/full/dyPYeYd)
+view this calculator: ()
+
+view react-calculator: (https://codepen.io/levo96/full/QWyBGRJ)
