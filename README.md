@@ -14,4 +14,4 @@ download files to view Calculator
 
 
 
-view reactjs-calculator: (https://codepen.io/levo96/full/QWyBGRJ)
+view reactjs calculator: (https://codepen.io/levo96/full/QWyBGRJ)
